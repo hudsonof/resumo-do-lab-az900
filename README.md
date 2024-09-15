@@ -33,3 +33,17 @@ Na Categoria - Rede
 	* Importante estabelecer uma governança
 	* Criação de regras de governança
 	* Facilidade de gerenciamento de recursos através de várias formas (Portal, Linha de comando, APIs, Terraform, etc...)
+
+# Criando máquinas Virtuais na Azure
+* SLA
+	* 99% (Tempo de inatividade por semana: 1,68 hora)
+	* 99,9% (Tempo de inatividade por semana: 10,1 minutos)
+	* 99,95% (Tempo de inatividade por semana: 5 minutos)
+	* 99,99% (Tempo de inatividade por semana: 1,01 minuto)
+	* 99,999% (Tempo de inatividade por semana: 6 segundos)
+* Opções de disponibilidade
+	* Sem redundância
+	* Zona de disponibilidade
+	* Conjunto de dimensioamento de maquinas virtuais
+	* Conjunto de disponibilidade
+* Sotorage também pode ter redundância
