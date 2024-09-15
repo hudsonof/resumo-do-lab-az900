@@ -56,3 +56,7 @@ Na Categoria - Rede
 	
 * Modelo de Responsabilidade Compartilhada
 	* ![Modelo de Responsabilidade Compartilhada](https://learn.microsoft.com/pt-br/azure/security/fundamentals/media/shared-responsibility/shared-responsibility.svg)
+
+# Configurando uma instância de Banco de Dados na Azure
+* Necessário a criação de servidor com localização do mesmo
+* Selecionar modelo de redundância
